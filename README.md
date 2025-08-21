@@ -15,9 +15,9 @@
 
 - 📫 How to reach me **siddharth.tripathi.0610@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Siddharth-1016/RESUME/blob/main/SIDDHARTH_TRIPATHI_RESUME_UPDATED.pdf](https://github.com/Siddharth-1016/RESUME/blob/main/SIDDHARTH_TRIPATHI_RESUME_UPDATED.pdf)
+- 📄 Know about my experiences [https://github.com/Siddharth-1016/RESUME/blob/main/siddharth_resume.pdf](https://github.com/Siddharth-1016/RESUME/blob/main/siddharth_resume.pdf)
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I am funny with a great sense of humour**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
