@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **: TensorFlow, PyTorch, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn, SciPy, Plotly , AWS, Power BI, MySQL, Python, C++**
 
-- 👯 I’m looking to collaborate on **SubRedditorX**
-
 - 💬 Ask me about **: TensorFlow, PyTorch, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn, SciPy, Plotly**
 
 - 📫 How to reach me **siddharth.tripathi.0610@gmail.com**
